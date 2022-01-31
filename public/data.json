@@ -1,0 +1,44 @@
+[
+    {
+        "key": 1,
+        "title": "Paris Hill Tour",
+        "details": "Health Services refer to the primary health care and wellness program and is primarily offered by the Medical-Dental Clinic to serve the needs of the students.",
+        "price": 180,
+        "img": "https://thetourguy.com/wp-content/uploads/2019/05/Eiffel-Tower-Park-in-Paris.jpg"
+    },
+    {
+        "key": 2,
+        "title": "Lake Garda, Italy",
+        "details": "Hearing Solutions is India’s Largest network of Professional Hearing Clinic and a Premium Hearing Aids provider with a specialisation in Digital the students",
+        "price": 200,
+        "img": "https://espriterrant.com/wp-content/uploads/2021/03/AdobeStock_286292229-1024x682.jpeg"
+    },
+    {
+        "key": 3,
+        "title": "Mount Dtna, Italyr",
+        "details": "Ophthalmologists are “…medical and osteopathic doctors who provide comprehensive eye care, including medical, surgical and optical care.”[1] In the US, this requires ",
+        "price": 120,
+        "img": "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/02/28/96424.jpg"
+    },
+    {
+        "key": 4,
+        "title": "Amalfi Costa, Italy",
+        "details": "Lunchables is a brand of food and snacks manufactured by Kraft Heinz in Chicago, Illinois and marketed under the Oscar Mayer brand. They were initially introduced in Seattle ",
+        "price": 300,
+        "img": "https://d1bv4heaa2n05k.cloudfront.net/user-images/1535025032242/shutterstock-1142567063_main_1535025093424.jpeg"
+    },
+    {
+        "key": 5,
+        "title": "French Rivira, France",
+        "details": "he series profiles true  have committed crimes, and have avoided arrest or capture, but ultimately end up being caught. Many of these people escaped from prisons after being sentenced while",
+        "price": 250,
+        "img": "https://www.beauchamp.com/_wp/wp-content/uploads/2017/01/Moving-to-the-French-Riviera1.jpg"
+    },
+    {
+        "key": 6,
+        "title": "Lake Geneva, France",
+        "details": "Dialysis is used as a temporary measure in either acute kidney injury or in those awaiting kidney transplant and as a permanent measure in those for whom a transplant is not indicated or not possible.[",
+        "price": 145,
+        "img": "https://www.lake-geneva-switzerland.com/wp-content/uploads//2012/02/24-Yvoire-on-Lake-Geneva-e1460298700271-1280x720.jpg"
+    }
+]

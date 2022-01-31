@@ -1,0 +1,11 @@
+.size{
+    font-size: 64px;
+}
+.text_color{
+    color: white;
+}
+.background{
+    background: url("./map.png");
+    background-size: cover;
+    
+}
